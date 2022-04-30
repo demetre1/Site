@@ -1,0 +1,316 @@
+
+.mountine{
+  position: relative;
+  top: 60px;
+  left: 0px;
+}
+.Moon{
+  position: absolute;
+  
+  left:0px;
+  right: 0px;
+  margin-left: 500px;
+
+  
+}
+div{
+  
+  margin-top: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+
+
+.top_container{
+  position: relative;
+  
+}
+
+.middle-container{
+  margin:100px 0;
+  
+  
+}
+
+.bottom-container{
+  top: 100px;
+  background-color: #056961;
+}
+.Stars{
+  position: absolute;
+  bottom: 900px;
+  left: 0px;
+  top: 1080px;
+
+}
+
+
+body{
+  margin:0;
+  text-align: center;
+  font-family:'Roboto Mono', monospace;
+  background-color: #DBFAFF;
+ 
+}
+h1{
+ position: relative;
+ width: 10%;
+ margin: 0 auto;
+ color: #5EBCE5 ;
+ font-size: 700%;
+ font-family: 'Sacramento', cursive;
+}
+
+
+
+h3{
+  position: relative;
+  font-family: 'Tapestry', cursive;
+  
+  
+}
+#clod{
+  position: relative;
+  left: 150px;
+}
+#cloud{
+  display: inline-block;
+  right:250px;
+  top:400px;
+  position: relative;
+}
+#title{
+  display: block;
+  
+  height: 5%;
+  position: relative;
+  color: #5EBCE5;
+  top: 200px;
+  color: red;
+}
+.text{
+  position: relative;
+  color:#40514E;
+  top: 0px;
+  margin-left: 200px;
+  font-size: x-large;;
+  
+}
+.link{
+  position: relative;
+  color: #11999E  ;
+  font-family: 'Courier New', Courier, monospace;
+  display: inline;
+  margin: 0 10px 0 20px;
+  text-decoration: none;
+}
+a:hover{
+  color:#EAF6F6;
+}
+.middle_text{
+  
+  position: relative;
+  color:#40514E;
+  margin-left: 130px;
+  font-size: x-large;
+  
+ 
+ }
+
+p{
+  
+  margin-top: 0px;
+  margin-bottom: 26px;
+}
+#profile{
+  height: 50%;
+  position: absolute;
+ 
+  
+}
+.header{
+
+  display: block;
+  top: 50px;
+  height: 5%;
+  position: relative;
+  color: #5EBCE5;
+  font-family: 'Courier New', Courier, monospace;
+  
+  
+}
+.intrudaction{
+  display: inline-block;
+  position: relative;
+  color:#40514E;
+  top: 50px;
+  font-size: x-large;
+  margin: 0 auto;
+  width:30%;
+  
+}
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: 'Courier New', Courier, monospace;
+  color: #ffffff;
+  font-size: 22px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+.btn{
+  position: relative;
+  display: block;
+  width: 20%;
+  bottom: 20px;
+  padding:5px;
+  margin:0 auto;
+}
+.stars2{
+  position: absolute;
+  bottom: 100px;
+  top: 2160px;
+  left:0;
+}
+.capture{
+  display: inline;
+ 
+}
+
+
+#skillsTag{
+  top:-110px;
+  
+  position: relative;
+  bottom: 2300px;
+}
+
+
+#designdevelopment{
+  position: relative;
+  
+}
+.second{
+  
+  position: relative;
+  top:120px;
+}
+#gif1{
+  position: relative;
+  top:240px;
+
+}
+
+#gif2{
+  
+  
+  position: relative;
+  top:60px;
+}
+
+
+
+
+.text_second{
+  
+  width: 40%;
+  height: 5%;
+  position: relative;
+  
+  color:#40514E;
+  font-size: x-large;
+  margin: 60px auto 40px auto;
+}
+
+.rights{
+  color:#EAF6F6;
+  font-size: 0.75rem;
+  margin: 0px;
+  padding: 20px 0;
+}
+
+#work{
+  position: relative;
+  left:140px;
+  
+} 
+#work2{ position: relative;
+  left:100px;
+  margin-top: 20px;
+  position: relative;
+  top:340px;
+  
+}
+#programer{
+  position: relative;
+  margin: 0 auto;
+  right: 0px;
+
+}
+ h3 ,a{
+  color: #11999E;
+  
+}
+
+h1,h2{
+ color: #66bfbf;
+
+}
+h2{
+  font-weight: normal;
+  position: relative;
+  top: 40px;
+  padding-bottom: 10px;
+  
+  
+}
+p{
+  line-height: 2;
+}
+
+.skill-row{
+  margin:100px auto ;
+  width: 50%;
+  text-align: left;
+  
+}
+
+
+hr{
+  border: dotted #EAF6F6 6px;
+  position: relative;
+  margin-top:20px;
+  top:40px;
+  width: 40%;
+  border-bottom: none;
+
+}
+.image1{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.image2{
+  width: 25%;
+  float: right;
+  margin-left:30px;
+  
+}
